@@ -406,4 +406,4 @@ def games():
                 break
     except: print('Wybrałeś zły znak!')
 
-games()
+games() #wywołanie programu
